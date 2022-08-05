@@ -1,0 +1,49 @@
+
+	--- Input Arguments ----
+
+Mean interarrival time      1.000 minutes
+
+S1: Mean service time           0.500 minutes
+
+S2: Mean service time           1.000 minutes
+
+S1: Usage probability              65%
+
+S2: Usage probability              35%
+
+Number of customers         40000
+
+
+
+	--- Server-1 ---
+
+Average delay in queue      0.028 minutes
+
+Average number in queue     0.018 jobs
+
+Server utilization           31.7%
+
+Jobs completed          26002
+
+
+
+	--- Server-2 ---
+
+Average delay in queue      0.078 minutes
+
+Average number in queue     0.027 jobs
+
+Server utilization           34.3%
+
+Jobs completed          13998
+
+
+
+	*** System Summary***
+
+Mean response time at system       1.014 minutes
+
+Average number at system       0.986 jobs
+
+Time simulation ended   40551.617 minutes
+
