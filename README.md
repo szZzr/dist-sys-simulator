@@ -4,7 +4,7 @@ The system that simulated at this work concerns a simple distributed system M/M/
 
 <figure>
   <p style="text-align:center">
-  <img  style="height:10vh" src="/Users/rizos/Library/Application Support/typora-user-images/Στιγμιότυπο 2022-05-19, 3.32.32 μμ.png">
+  <img  style="height:10vh" src="https://github.com/szZzr/dist-sys-simulator/blob/master/icon/1.png">
   </p>
   <figcaption align="center">Figure 1: Distributed system</figcaption>
 </figure>
@@ -23,7 +23,7 @@ the $s_1, s_2$ correspond to mean service time of each server.
 
 <figure>
   <p style="text-align:center">
-  <img style="height:5vh" src="/Users/rizos/Library/Application Support/typora-user-images/Στιγμιότυπο 2022-05-19, 4.00.52 μμ.png">
+  <img style="height:5vh" src="https://github.com/szZzr/dist-sys-simulator/blob/master/icon/2.png">
   </p>
   <figcaption align="center">Figure 2: Input Arguments <br/> [interarrival time, service time 1, service time 2, service probability 1, service probability 2]</figcaption>
 </figure>
