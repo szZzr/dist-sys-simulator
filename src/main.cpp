@@ -25,7 +25,7 @@ void run_single(){
 }
 
 void run_double(){
-    DistributedSimulator<Results> distributed;
+    DistributedSimulator distributed;
     distributed.simulate();
     distributed.report();
 }
